@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-#Wesr
-=======
 ```asd```
 ``wow``
 
 
+
+``KK
+bash``
 %%sad
 as
 Pus
 #HEADar mata
->>>>>>> refs/remotes/origin/main
+
