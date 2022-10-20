@@ -1,6 +1,3 @@
-
-#i dont car:
-##try harder
 ```asd```
 ``wow``
 
@@ -12,3 +9,4 @@ bash``
 as
 Pus
 #HEADar mata
+
